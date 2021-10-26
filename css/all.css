@@ -658,7 +658,7 @@ transition: all 0.5s ease-in-out;
 		background-size:20px 38px;
 	}
 	.footer-content .social li.instagram a{
-		background-image: url(../images/icon_ig@x2.png);
+		background-image: url(../images/icon_ig.png);
 		background-size:42px 38px;
 	}
 	.footer-content .social li.twitter a{
@@ -666,7 +666,7 @@ transition: all 0.5s ease-in-out;
 		background-size:44px 34px;
 	}
 	.footer-content .social li.linkedin a{
-		background-image: url(../images/icon_lk@x2.png);
+		background-image: url(../images/icon_lk.png);
 		background-size:38px 38px;
 	}
 	.plagin_list li.li_1 a{
