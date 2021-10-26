@@ -657,16 +657,16 @@ transition: all 0.5s ease-in-out;
 		background-image: url(../images/icon_fb@x2.png);
 		background-size:20px 38px;
 	}
-	.footer-content .social li.google a{
-		background-image: url(../images/icon_gl@x2.png);
+	.footer-content .social li.instagram a{
+		background-image: url(../images/icon_ig@x2.png);
 		background-size:42px 38px;
 	}
 	.footer-content .social li.twitter a{
 		background-image: url(../images/icon_tw@x2.png);
 		background-size:44px 34px;
 	}
-	.footer-content .social li.pinterest a{
-		background-image: url(../images/icon_pn@x2.png);
+	.footer-content .social li.linkedin a{
+		background-image: url(../images/icon_lk@x2.png);
 		background-size:38px 38px;
 	}
 	.plagin_list li.li_1 a{
